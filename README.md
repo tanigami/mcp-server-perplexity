@@ -1,5 +1,7 @@
 # Perplexity MCP Server
 
+[![smithery badge](https://smithery.ai/badge/mcp-server-perplexity)](https://smithery.ai/server/mcp-server-perplexity)
+
 MCP Server for the Perplexity API.
 
 > :warning: **Limitations:**
